@@ -19,7 +19,7 @@
 1. Clone the repository:
 
     ```sh
-    git clone https://github.com/yourusername/listfi.git
+    git clone https://github.com/Nichno/listfi.git
     ```
 
 2. Navigate to the directory:
@@ -75,4 +75,4 @@ This log file is created in the same directory where the script is executed.
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 ```
 
-Replace `https://github.com/yourusername/listfi.git` with the actual URL of your GitHub repository. Save this content in a file named `README.md` and add it to your GitHub repository.
+Replace `https://github.com/Nichno/listfi.git` with the actual URL of your GitHub repository. Save this content in a file named `README.md` and add it to your GitHub repository.
