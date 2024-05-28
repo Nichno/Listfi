@@ -1,0 +1,8 @@
+Package: listfi
+Version: 1.2
+Section: utils
+Priority: optional
+Architecture: all
+Depends: bash (>= 4.0)
+Maintainer: Nicolai Balasus <Nicolai.Balasus@gmail.com>
+Description: A script that searches all wordlists for a Word that the user enters. If it was found, it echos where, if not it logs it in a log file.
